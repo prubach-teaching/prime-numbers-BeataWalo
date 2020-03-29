@@ -18,7 +18,7 @@ public class PrimeNumbers {
                 if (x < n) {
                     System.out.print(j + ", ");
                 } else {
-                    System.out.print(j);
+                    System.out.print(j + "\n");
                 }
             }
             j ++;
