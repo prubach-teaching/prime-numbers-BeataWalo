@@ -15,7 +15,7 @@ public class PrimeNumbers {
             }
             if (count == 2) {
                 x = x + 1;
-                if (x < 4) {
+                if (x < n) {
                     System.out.print(j + ", ");
                 } else {
                     System.out.print(j);
